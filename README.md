@@ -65,9 +65,12 @@ Once everything is wired up and programmed, plug into your computer and use the 
 
 ## Acknowledgements
 
-- ### Inspired By: My desire for a homemade Stream Deck and to learn
-- ### Based On: https://www.sparkfun.com/tutorials/337
-- ### Contributors: None
+- ### Inspired By:
+  - My desire for a homemade Stream Deck and to learn
+- ### Based On:
+  - https://www.sparkfun.com/tutorials/337
+- ### Contributors:
+  - None
 
 ## Contact
 
